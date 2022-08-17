@@ -80,7 +80,7 @@ Ao seguir esse tutorial, você terminará com um app React hospedado no GitHub P
     {
       "name": "my-app",
       "version": "0.1.0",
-    + "homepage": "https://gitname.github.io/react-gh-pages",
+    + "homepage": "https://{username}.github.io/{nome-do-repositorio}",
       "private": true,
     ```
 
